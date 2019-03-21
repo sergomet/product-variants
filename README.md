@@ -30,6 +30,7 @@ id | variant
 
 ### CASE3: add variants Memory 2GB, 4GB 
 Products with id = 0 are new and need to be created, others updated.
+
 id | variant
 --- | ---
 1 | Green, 128GB, 2GB
