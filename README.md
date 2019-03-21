@@ -22,6 +22,7 @@ id | variant
 Products with id = 0 are new and need to be created, others updated.
 
 id | variant
+--- | ---
 1 | Green, 128GB, 2GB
 2 | Green, 256GB, 2GB
 0 | Green, 512GB, 2GB
