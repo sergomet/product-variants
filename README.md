@@ -10,12 +10,13 @@ id | variant
 
 ### CASE1: add variants Memory 2GB
 All products have id, so all need to be update.
+
 id | variant
---- | ---
-1 | Green, 128 GB, 2GB
-2 | Green, 256 GB, 2GB
-3 | Red, 128 GB, 2GB
-4 | Red, 256 GB, 2GB
+-- | ---
+1  | Green, 128 GB, 2GB
+2  | Green, 256 GB, 2GB
+3  | Red, 128 GB, 2GB
+4  | Red, 256 GB, 2GB
 
 ### CASE2: add variants storage 512GB
 Products with id = 0 are new and need to be created, others updated.
