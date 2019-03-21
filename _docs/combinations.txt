@@ -1,0 +1,34 @@
+1, Products 1 / Green,128 GB
+2, Products 2 / Green,256 GB
+3, Products 3 / Red,128 GB
+4, Products 4 / Red,256 GB
+----------------
+add: Memory 2GB / updated all - it dosen't exist
+----------------
+1, Products 1 / Green,128 GB,2GB
+2, Products 2 / Green,256 GB,2GB
+3, Products 3 / Red,128 GB,2GB
+4, Products 4 / Red,256 GB,2GB
+
+----------------
+add: Storage 512GB / created 2 - it exist
+----------------
+1, Green,128 GB, 2GB
+2, Green,256 GB, 2GB
+0, Green,512 GB, 2GB
+3, Red,128 GB,2GB
+4, Red,256 GB,2GB
+0, Red,512 GB,2GB
+
+----------------
+add: Memory 2GB, 4GB 
+----------------
+[1] Green,128 GB, 2GB
+[2] Green,256 GB, 2GB
+[3] Red,128 GB, 2GB
+[4] Red,256 GB, 2GB
+
+[0] Green,128 GB, 4GB
+[0] Green,256 GB, 4GB
+[0] Red,128 GB, 4GB
+[0] Red,256 GB, 4GB
